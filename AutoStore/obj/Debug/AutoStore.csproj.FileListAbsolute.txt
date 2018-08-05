@@ -1,0 +1,5 @@
+D:\users\dante\documents\visual studio 2015\Projects\AutoStore\AutoStore\bin\Debug\AutoStore.dll
+D:\users\dante\documents\visual studio 2015\Projects\AutoStore\AutoStore\bin\Debug\AutoStore.pdb
+D:\users\dante\documents\visual studio 2015\Projects\AutoStore\AutoStore\obj\Debug\AutoStore.csprojResolveAssemblyReference.cache
+D:\users\dante\documents\visual studio 2015\Projects\AutoStore\AutoStore\obj\Debug\AutoStore.dll
+D:\users\dante\documents\visual studio 2015\Projects\AutoStore\AutoStore\obj\Debug\AutoStore.pdb
